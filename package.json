@@ -1,0 +1,34 @@
+{
+  "name": "decode-protobuf",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "decodes protobuf messages from the wire into JSON objects",
+  "main": "protobufDecoder.js",
+  "scripts": {
+    "test": "vitest --run --globals --reporter verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessedp/decode-proto.git"
+  },
+  "keywords": [
+    "json",
+    "protobuf",
+    "decoder"
+  ],
+  "author": "jessedp <jessedp@gmail.com>",
+  "contributors": [
+    "pawitp (https://github.com/pawitp)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessedp/decode-proto/issues"
+  },
+  "homepage": "https://github.com/jessedp/decode-proto#readme",
+  "dependencies": {
+    "jsbi": "^4.3.0"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.9"
+  }
+}
