@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jessedp/decode-proto.git"
+    "url": "git+https://github.com/jessedp/decode-protobuf.git"
   },
   "keywords": [
     "json",
@@ -22,9 +22,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jessedp/decode-proto/issues"
+    "url": "https://github.com/jessedp/decode-protobuf/issues"
   },
-  "homepage": "https://github.com/jessedp/decode-proto#readme",
+  "homepage": "https://github.com/jessedp/decode-protobuf#readme",
   "dependencies": {
     "jsbi": "^4.3.0"
   },
