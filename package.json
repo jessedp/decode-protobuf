@@ -1,6 +1,6 @@
 {
   "name": "decode-protobuf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "description": "decodes protobuf messages from the wire into JSON objects",
   "main": "src/protobufDecoder.js",
