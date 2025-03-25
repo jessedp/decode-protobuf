@@ -18,10 +18,10 @@ npm install decode-protobuf
 ## Usage
 
 ```javascript
-const { decodeProtobuf } = require("decode-protobuf");
+const { decodeProtobuf, parseInput } = require("decode-protobuf");
 
 // Decode a binary protobuf message
-const decoded = decodeProtobuf(binaryData);
+const decoded = decodeProtobuf(parseInput(binaryData));
 console.log(decoded);
 ```
 

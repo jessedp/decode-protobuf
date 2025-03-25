@@ -48,7 +48,7 @@ class BufferReader {
         "Not enough bytes left. Requested: " +
           length +
           " left: " +
-          bytesAvailable,
+          bytesAvailable
       );
     }
   }
