@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "type": "module",
   "description": "decodes protobuf messages from the wire into JSON objects",
-  "main": "protobufDecoder.js",
+  "main": "src/protobufDecoder.js",
   "scripts": {
     "test": "vitest --run --globals --reporter verbose"
   },
